@@ -72,3 +72,4 @@ Pull requests приветствуются! Для крупных изменен
 ## 👤 Автор
 
 Ваше имя - [@your-github-username](https://github.com/your-github-username)
+
