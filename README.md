@@ -71,5 +71,4 @@ Pull requests приветствуются! Для крупных изменен
 
 ## 👤 Автор
 
-Ваше имя - [@your-github-username](https://github.com/your-github-username)
-
+che711 - [@che711](https://github.com/che711)
