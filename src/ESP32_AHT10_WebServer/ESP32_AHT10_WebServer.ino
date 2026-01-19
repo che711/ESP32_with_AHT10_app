@@ -881,7 +881,7 @@ void handleHistory() {
   }
   json += "],\"temp\":[";
   for (int i = 0; i < historySize; i++) {
-    if (i > 0) json += ",";s
+    if (i > 0) json += ",";
     json += String(tempHistory[i], 1);
   }
   json += "],\"humid\":[";
