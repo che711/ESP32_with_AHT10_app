@@ -71,4 +71,4 @@ Pull requests приветствуются! Для крупных изменен
 
 ## 👤 Автор
 
-che711 - [@che711](https://github.com/che711)
+[@che711](https://github.com/che711)
